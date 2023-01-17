@@ -16,8 +16,8 @@
 很高兴见到你，在这里，GitHub，与你相见。  
 在这里，你敞开心扉，将代码与他人共享  
 **在这个自由的平台上，共同分享着信息世界的始基**  
-无论是`Java` `C++` `C` `C#` `Perl` `Js` `Php` `HTML`  
-还是`Go` `Kotlin` `Batch` `PowerShell` `Shell`等等  
+无论是`Java` `C++` `C` `C#` `Perl` `JavaScript` `PHP` `HTML`  
+还是`Go` `Kotlin` `Batch` `PowerShell` `Shell` `CSS`等等  
 也许有人看不懂你的语言，也许用户看不懂你写的代码  
 $但，那又何妨：$  
 在这红红绿绿的行行代码之间  
