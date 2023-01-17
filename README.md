@@ -2,8 +2,8 @@
 ### 你好。
 ### 你知道吗
   
-有一个平台叫github.com   
-有一个社区叫githubs.cn  
+有一个平台叫https://github.com   
+有一个社区叫https://githubs.cn  
 有一个贴吧叫做https://tieba.baidu.com/f?dyTabStr=MCwzLDYsMiwxLDQsNSw3LDgsOQ%3D%3D&kw=github&tpl=5   
 有一种速度叫做https://ghproxy.com/   
 有一种模仿叫做https://gitee.com/   
