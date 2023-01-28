@@ -4,10 +4,10 @@
   
 有一个平台叫https://github.com   
 有一个社区叫https://githubs.cn  
-有一个贴吧叫做https://tieba.baidu.com/f?dyTabStr=MCwzLDYsMiwxLDQsNSw3LDgsOQ%3D%3D&kw=github&tpl=5   
-有一种速度叫做https://ghproxy.com/   
+有一个贴吧叫https://tieba.baidu.com/f?dyTabStr=MCwzLDYsMiwxLDQsNSw3LDgsOQ%3D%3D&kw=github&tpl=5   
+有一种速度叫https://d.serctl.com/
 有一种模仿叫做https://gitee.com/   
-有一个QQ频道叫做https://pd.qq.com/s/glcbutz8b (注:该频道是本人创建的 期待你的到来!)   
+有一个QQ频道叫https://pd.qq.com/s/glcbutz8b (注:该频道是本人创建的 期待你的到来!)   
   
 我们看到，在这么多平台中，闪烁着你的身影，来来而往往  
 我们看到，你的每一次`Commit`都是一次努力，你的每一次发贴帮助都是一次贡献  
