@@ -5,7 +5,7 @@
 有一个平台叫https://github.com   
 有一个社区叫https://githubs.cn  
 有一个贴吧叫https://tieba.baidu.com/f?dyTabStr=MCwzLDYsMiwxLDQsNSw3LDgsOQ%3D%3D&kw=github&tpl=5   
-有一种速度叫https://d.serctl.com/
+有一种速度叫https://d.serctl.com/  
 有一种模仿叫做https://gitee.com/   
 有一个QQ频道叫https://pd.qq.com/s/glcbutz8b (注:该频道是本人创建的 期待你的到来!)   
   
